@@ -1,2 +1,2 @@
 # BuggyCode
-# This is a HelloWorld program and my first comitt to Github
+# This is a HelloWorld program and my first commit to Github

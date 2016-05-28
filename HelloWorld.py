@@ -1,3 +1,3 @@
-#Hello World
+#HelloWorld
 
 print "Hello World !!"
